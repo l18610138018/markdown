@@ -1,6 +1,6 @@
 {
     "name": "mindme/markdown-bundle",
-    "version": "master"
+    "version": "master",
     "keywords": ["Claroline", "Plugin"],
     "homepage": "http://www.claroline.net",
     "type": "claroline-plugin",
