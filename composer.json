@@ -1,5 +1,6 @@
 {
     "name": "mindme/markdown-bundle",
+    "version": "master"
     "keywords": ["Claroline", "Plugin"],
     "homepage": "http://www.claroline.net",
     "type": "claroline-plugin",
@@ -11,5 +12,5 @@
     "autoload": {
         "psr-0": { "Mindme\\MarkdownBundle": "" }
     },
-    "target-dir": "Mindme/MarkdownBundle"
+    "target-dir": "mindme"
 }
