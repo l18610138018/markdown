@@ -15,9 +15,9 @@
  "autoload": {
         "psr-0": {
           "Mindme\\MarkdwonBundle\\": "plugin/markdwon"
-          },
-         "target-dir": "claroline/distribution"
+          }
 },
+  "target-dir": "claroline/distribution",
   "extra": {
         "bundles": [
                  "Mindme\\MarkdownBundle\\MindmeMarkdownBundle"
