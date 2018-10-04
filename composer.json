@@ -10,7 +10,7 @@
         "claroline/core-bundle": "~5.0"
     },
     "replace": {
-        "mindme/markdown-bundle": "*"
+        "mindme/markdown-bundle": "claroline/distribution"
     },
  "autoload": {
         "psr-4": {
