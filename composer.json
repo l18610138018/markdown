@@ -1,5 +1,6 @@
 {
     "name": "mindme/markdown-bundle",
+    "target-dir": "claroline/plugin"
     "version": "master",
     "keywords": ["Claroline", "Plugin"],
     "homepage": "http://www.claroline.net",
@@ -10,7 +11,7 @@
         "claroline/core-bundle": "~5.0"
     },
     "replace": {
-        "mindme/markdown-bundle": "claroline/distribution"
+        "mindme/markdown-bundle": "*"
     },
  "autoload": {
         "psr-4": {
