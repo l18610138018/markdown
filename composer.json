@@ -15,7 +15,7 @@
  "autoload": {
         "psr-4": {
           "Mindme\\MarkdwonBundle\\": "plugin/markdwon"
-          }
+          },
          "target-dir": "claroline/distribution"
 },
   "extra": {
