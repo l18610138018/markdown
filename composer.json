@@ -9,9 +9,17 @@
         "php": ">=5.4.1",
         "claroline/core-bundle": "~5.0"
     },
+    "replace": {
+        "mindme/markdown-bundle": "*"
+    },
  "autoload": {
         "psr-4": {
-          "Mindme\\MarkdownBundle\\": ""
-}
-}
+          "Mindme\\MarkdwonBundle\\": "plugin/markdwon"
+          }
+},
+  "extra": {
+        "bundles": [
+                 "Mindme\\MarkdownBundle\\MindmeMarkdownBundle"
+            ]
+  }
 }
